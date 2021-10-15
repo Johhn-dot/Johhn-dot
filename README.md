@@ -1,7 +1,18 @@
+<br />
+<a href="https://www.facebook.com/joao.pedrosoarestorrel" alt="Facebook">
+  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/joao.pedrosoarestorrel"/></a>
+
+  <a href="https://www.instagram.com/eujoaotorrel/" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/eujoaotorrel/"/></a>
+
+
 <h3> :smiley: &nbsp;Sobre mim </h3>
+
+
 
 - 💼 &nbsp; Trabalhando como **desenvolvedor Front-End Mobile** na marca **Tchê Delivery**.
 - 🌱 &nbsp; Aprendendo mais sobre **NodeJs e Flutter**.
+
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
@@ -33,8 +44,4 @@
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
   ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
   
-  <a href="https://www.facebook.com/joao.pedrosoarestorrel" alt="Facebook">
-  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/joao.pedrosoarestorrel"/></a>
-
-  <a href="https://www.instagram.com/eujoaotorrel/" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/eujoaotorrel/"/></a>
+  
