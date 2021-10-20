@@ -10,7 +10,7 @@
 
 
 
-- 💼 &nbsp; Trabalhando como **desenvolvedor Front-End Mobile** na marca **Tchê Delivery**.
+- 💼 &nbsp; Trabalhando como **desenvolvedor Front-End Mobile** na organização **Tchê Delivery**.
 - 🌱 &nbsp; Aprendendo mais sobre **NodeJs**.
 
 
