@@ -11,7 +11,7 @@
 
 
 - 💼 &nbsp; Trabalhando como **desenvolvedor Front-End Mobile** na marca **Tchê Delivery**.
-- 🌱 &nbsp; Aprendendo mais sobre **NodeJs e Flutter**.
+- 🌱 &nbsp; Aprendendo mais sobre **NodeJs**.
 
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
