@@ -10,8 +10,8 @@
 
 
 
-- 💼 &nbsp; Trabalhando como **desenvolvedor Front-End Mobile** na organização **Tchê Delivery**.
-- 🌱 &nbsp; Aprendendo mais sobre **NodeJs**.
+- 18 anos.
+- Focado em desenvolvimento Fullstack com JavaScript.
 
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
