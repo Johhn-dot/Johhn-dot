@@ -10,7 +10,7 @@
 
 
 
-- 18 anos.
+- 19 anos.
 - Focado em desenvolvimento Fullstack com JavaScript.
 
 
